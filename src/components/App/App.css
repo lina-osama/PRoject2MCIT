@@ -24,6 +24,7 @@ button{
       }
 
       *{
+        list-style: none;
           color: rgb(122, 28, 47);
           font-size: larger;
           text-align: center;
