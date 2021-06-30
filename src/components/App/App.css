@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(137, 43, 226, 0.068);
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    background-color: #4c87af; 
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 10px;
+    padding:13px;
+}
+   
+
+    input{
+        border: none;
+        border-bottom: 2px solid rgba(0, 153, 255, 0.349);
+        font-family: "Times New Roman";
+      }
+
+      *{
+          color: rgb(122, 28, 47);
+          font-size: larger;
+          text-align: center;
+      }
